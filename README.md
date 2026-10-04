@@ -1,5 +1,8 @@
 # Hoàng 👋
 
-Developer & music producer 🇻🇳
+**Code & Music** 🇻🇳
 
-🌐 [hoanghus.vercel.app](https://hoanghus.vercel.app)
+Developer by day, music producer by night.
+
+## Connect
+- 🌐 [hoanghus.vercel.app](https://hoanghus.vercel.app)
