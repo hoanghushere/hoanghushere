@@ -2,30 +2,17 @@
 
 **Freelance Developer | Music Producer**
 
-I build web apps by day and make music by night — Vietnamese rap, Afrobeats, trap, pop, ballad. Also deep into iOS sideloading, local AI, and automating everything with Telegram bots.
+I build for the web and produce music. Into iOS sideloading, local AI, and Telegram automation.
 
-## 🌳 Stack
+## Stack
 
-```
-💻 Code
-   ├─ TypeScript · Next.js · Tailwind
-   ├─ Python (bots, automation, scripts)
-   └─ Vercel · Ubuntu homelab
-
-🎹 Music
-   ├─ FL Studio · Ableton Live 12 Suite
-   ├─ Suno AI · Splice
-   └─ Tổ Chức 168
-
-🤖 AI
-   ├─ Ollama · LM Studio (local LLMs)
-   ├─ Telegram MTProto pipelines
-   └─ Agent orchestration
-```
+- **Web:** TypeScript, Next.js, Tailwind, Vercel
+- **Music:** FL Studio, Ableton Live
+- **AI & Tools:** Python, Ollama, Ubuntu homelab
 
 ## 🔨 Currently Building
 
-- **IPA repo** — Telegram ingestion → AltStore/LCSign source
+- **IPA repo** — Telegram ingestion → AltStore source
 - **Stem splitter** — browser-based vocal & instrument separation
 - **PES 2021 live stats** — memory-reading dashboard
 
@@ -33,7 +20,7 @@ I build web apps by day and make music by night — Vietnamese rap, Afrobeats, t
 
 - DSP for music tools
 - iOS tweak development
-- Japanese (for lyric writing)
+- Japanese
 
 ## 📊 Stats
 
@@ -47,12 +34,12 @@ I build web apps by day and make music by night — Vietnamese rap, Afrobeats, t
 
 ## 📫 Connect
 
-- 🌐 Website: [hoanghus.vercel.app](https://hoanghus.vercel.app)
-- 🐙 GitHub: [hoanghushere](https://github.com/hoanghushere)
+- 🌐 [hoanghus.vercel.app](https://hoanghus.vercel.app)
+- 🐙 [github.com/hoanghushere](https://github.com/hoanghushere)
 
 ## ⚡ Fun fact
 
-I play billiards, hit the gym, and my cat judges my mixes.
+Billiards, gym, and a cat who judges my mixes.
 
 ---
 
